@@ -6,7 +6,7 @@ Most churn projects stop at "this customer will leave." This one goes further: i
 
 **Live demo:** [ADD YOUR STREAMLIT APP LINK HERE]
 
-![Dashboard](assets/dashboard.png)
+![Dashboard]()
 
 ---
 
