@@ -4,9 +4,8 @@ End-to-end customer churn project on the IBM Telco dataset: a leak-free pipeline
 
 Most churn projects stop at "this customer will leave." This one goes further: it explains **why** each customer is at risk, groups customers into **segments**, and recommends a **retention offer** for each one, all in an app a retention manager can use directly.
 
-**Live demo:** [ADD YOUR STREAMLIT APP LINK HERE]
+**Live demo:**(https://telco-churn-retention-intelligence-k8mucssrfsqjbdac7rfty8.streamlit.app/)
 
-![Dashboard]()
 
 ---
 
